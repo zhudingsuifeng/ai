@@ -1,3 +1,4 @@
 # file that github need ignored
 env
 *.tmp
+.vscode
